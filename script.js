@@ -783,7 +783,9 @@ const LoveCalendar = {
             <div class="sync-controls" style="margin-top: 15px; text-align: center;">
                 <button id="syncBtn" style="margin-right: 10px;">🔄 Tải lại</button>
                 <button id="exportBtn">📤 Export JSON</button>
-                <button id="importBtn" style="margin-left: 10px;">📥 Import JSON</button>
+                <button id="importBtn" style="margin-left: 10px;">📥 Import JSON</button> <br>
+
+                
                 <button id="viewAllBtn" style="margin-left: 10px;">📋 Xem tất cả</button>
                 <div id="syncStatus" style="margin-top: 10px; font-size: 14px; color: #666;">
                     🟢 Sẵn sàng

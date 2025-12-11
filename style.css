@@ -49,7 +49,9 @@ html {
 }
 
 body {
-  font-family: 'Segoe UI', 'Poppins', 'Dancing Script', sans-serif;
+  /* font-family: 'Segoe UI', 'Poppins', 'Dancing Script', sans-serif; */
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
   background: linear-gradient(135deg, var(--dark-pink-1) 0%, var(--dark-pink-2) 100%);
   color: var(--text-light);
   line-height: 1.6;
@@ -97,7 +99,9 @@ body::before {
 }
 
 .navbar-brand {
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
   font-size: 2.2rem;
   font-weight: 700;
   background: linear-gradient(135deg, var(--pink-light), var(--pink-accent));
@@ -215,7 +219,8 @@ body::before {
 }
 
 .content-right h1 {
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+font-family: 'Open Sans', sans-serif;
   font-size: 3.8rem;
   margin-bottom: 1.5rem;
   background: linear-gradient(135deg, var(--pink-light), var(--pink-accent));
@@ -322,7 +327,8 @@ body::before {
 }
 
 .hero-section h1 {
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Open Sans', sans-serif;
   font-size: 3.5rem;
   margin-bottom: 1.5rem;
   background: linear-gradient(135deg, var(--pink-light), var(--pink-accent));
@@ -1012,7 +1018,7 @@ body::before {
 }
 
 .section-title {
-  font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
   font-size: 3rem;
   text-align: center;
   margin-bottom: 3rem;
@@ -1170,7 +1176,7 @@ body::before {
 }
 
 .timeline-title {
-  font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
   font-size: 3.5rem;
   text-align: center;
   margin-bottom: 4rem;
@@ -1599,7 +1605,7 @@ body::before {
   color: white;
   margin-bottom: 20px;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-  font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
 }
 
 .counter-text > p {
@@ -1653,7 +1659,7 @@ body::before {
   text-align: center;
   margin-top: 20px;
   line-height: 1.6;
-  font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
 }
 
 .love-quote {
@@ -1764,7 +1770,8 @@ body::before {
 }
 
 .logo-text h2 {
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2.2rem;
   margin: 0 0 5px 0;
   background: linear-gradient(to right, 
